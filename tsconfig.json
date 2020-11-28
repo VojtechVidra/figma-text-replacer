@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "baseUrl": "src",
+    "typeRoots": ["./node_modules/@types", "./node_modules/@figma"],
+    "skipLibCheck": true
+  }
+}
